@@ -1,5 +1,6 @@
 
-# hello-world
-just another repository
+# Hello Everyone
 
-Trying to figure this get hub thing
+Here are some Array's in C#
+
+That I've conqured!
