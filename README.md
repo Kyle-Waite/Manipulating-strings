@@ -1,8 +1,9 @@
->
+
 # Hello Everyone
 
-Here are some Array's in C#
+Here are some Strings's in C#
 
-That I've conqured! 
+Here i will demonsrate mulitple examples of how to iderate through and pulll specific information 
+from strings that I've conqured! 
 
 <( ^.^)>
